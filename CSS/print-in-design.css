@@ -1,0 +1,140 @@
+#artical {
+    border: 1px solid black;
+    background-color:"rgb(243,243,243)";
+    top:228px;
+    width:896px;
+    height:370px;
+    left:0px; 
+    position:absolute;
+    padding:0px;
+    margin-left:52px;
+    margin-right:52px;
+}
+
+#slider {
+    border: 1px solid black;
+    background-color:"rgb(255,255,255)";
+    top:606px;
+    width:616px;
+    height:244px;
+    left:0px; 
+    position:absolute;
+    padding:0px;
+    margin-left:52px; 
+    margin-right:0px;
+    padding-left:12px;
+    padding-right:12px;
+    font-family:arial;
+    font-size:12px;
+}
+#online {
+    border: 1px solid black;
+    background-color:"rgb(255,255,255)";
+    top:606px;
+    width:244px;
+    height:244px;
+    left:704px; 
+    position:absolute;
+    padding:0px;
+    margin-left:0px; 
+    margin-right:53px;
+    font-family:arial;
+    font-size:12px;
+}
+
+#work-progress {
+    border: 1px solid black;
+    background-color:"rgb(255,255,255)";
+    top:858px;
+    width:290px;
+    height:246px;
+    left:0px; 
+    position:absolute;
+    padding:0px;
+    margin-left:53px;
+    padding-left:12px;
+    padding-right:12px;
+    font-family:arial;
+    font-size:12px; 
+    
+}
+#announcement {
+    border: 1px solid black;
+    background-color:"rgb(255,255,255)";
+    top:858px;
+    width:290px;
+    height:246px;
+    left:378px; 
+    position:absolute;
+    padding:0px;
+    padding-left:12px;
+    padding-right:12px;
+    font-family:arial;
+    font-size:12px;
+    
+}
+#notes-entry {
+    border: 1px solid black;
+    background-color:"rgb(255,255,255)";
+    top:858px;
+    width:220px;
+    height:244px;
+    left:704px; 
+    position:absolute;
+    padding:0px;
+    margin-left:0px; 
+    margin-right:53px;
+    padding-left:12px;
+    padding-right:12px;
+    font-family:arial;
+    font-size:12px;
+}
+
+#ex-links {
+    border: 1px solid black;
+    background-color:"rgb(255,255,255)";
+    top:1116px;
+    width:616px;
+    height:244px;
+    left:0px; 
+    position:absolute;
+    padding:0px;
+    margin-left:53px; 
+    margin-right:0px;
+    padding-left:12px;
+    padding-right:12px;
+    font-family:arial;
+    font-size:12px;
+}
+#feedback {
+    border: 1px solid black;
+    background-color:"rgb(255,255,255)";
+    top:1116px;
+    width:222px;
+    height:244px;
+    left:704px; 
+    position:absolute;
+    margin-left:0px; 
+    margin-right:53px;
+    font-family:arial;
+    font-size:12px;
+    padding-left:12px;
+    padding-right:12px;
+}
+#descreption {
+    
+    background-color:"rgb(243,243,243)";
+    top:1368px;
+    width:874px;
+    height:68px;
+    left:0px; 
+    position:absolute;
+    padding-left:12px;
+    padding-right:12px;
+    margin-left:53px; 
+    margin-right:53px;
+    font-family:arial;
+    font-size:11px;
+}
+
+

@@ -1,0 +1,224 @@
+.text-c{
+    text-align: center;
+}
+.text-l{
+    text-align: left;
+}
+.text-r{
+    text-align: right;
+}
+.text-large{
+     font-family:arial black;
+     font-size:40px;
+     font-weight:bold;
+     padding-right: 20px; 
+     padding-left: 20px;
+}
+.text-type{
+     font-family:arial black;
+     font-weight:bold;
+     font-size:20px;
+}    
+.fl{
+    float:left;
+}
+.fr{
+    float:right;
+}
+.navlist li
+{
+    display:inline ;
+    list-style-type: none;
+    padding-right: 4px; 
+    padding-left: 4px;
+    
+}
+.list li
+{
+    display:inline ;
+    list-style-type: none;
+    padding-right: 4px; 
+    padding-left: 4px;
+    
+}
+a:link{
+    color:black; 
+    background-color:transparent; 
+    text-decoration:none
+}
+a.ex1:link{
+    color:white; 
+    background-color:transparent; 
+    text-decoration:none
+}
+a.ex2:link{
+    color:white; 
+    background-color:green; 
+    text-decoration:none
+}
+a:hover{
+    color:white;
+    background-color:black
+}
+a.ex1:hover{
+    color:black;
+    background-color:white
+}
+ul.a {
+    list-style-type: disc;
+    margin: 0px 0px 0px -30px;
+}
+.line-up-a{
+    margin: -15px 0px 0px 0px; 
+}
+.line-up-b{
+    margin: -20px 0px 0px 0px; 
+}
+.line-up-c{
+    margin: -10px 0px 0px 0px; 
+}
+.line-up-d{
+    margin: -2px 0px 0px 0px; 
+}
+.line-up-e{
+    margin: -20px 0px 0px 90px; 
+}
+.line-down-b{
+    margin: 3px 0px 0px 0px; 
+}
+.line-down-a{
+    margin: 15px 0px 0px 0px; 
+}
+.line-right-a{
+    margin: 5px 0px 0px 90px;
+}
+.line-right-b{
+    margin: -100px 0px 100px 415px;
+}
+.line-right-c{
+    margin: -100px 0px 0px 615px;
+}
+.line-pad-a{
+    padding: 0px 0px 0px 12px;
+}
+.line-left-a{
+    margin: -80px 260px 0px 0px;
+}
+.line-left-b{
+    margin: -65px 110px 0px 0px;
+}
+.line-left-c{
+    margin: -50px -30px 0px 10px;
+}
+.content-c {
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+}
+.content-l {
+    margin: 0px 5px 0px 420px; 
+}
+.sz{
+    font-size:16;
+}
+.vr-a{
+    border-right:1px black solid;
+    height:60px;
+    margin:-10px 460px 10px 10px; 
+    position:relative;
+}
+.vr-b{
+    border-right:1px black solid;
+    height:60px;
+    margin:-70px 300px 10px 180px; 
+    position:relative;
+}
+.vr-c{
+    border-right:1px black solid;
+    height:60px;
+    margin:-70px 150px 10px 340px; 
+    position:relative;
+}
+.vr-d{
+    margin:-70px 10px 10px 490px;
+}
+.r-l{
+    direction: rtl;list-style-type: none;
+}
+.font{
+    font-family:arial;
+    font-size:12px;
+}
+.button {
+    background-color: #dcdcdc;
+    border: 1px solid #666;
+    color:#000;
+    text-decoration:none;
+    display:inline-block;
+    width: 50px;
+    height: 10px;
+    padding:5px;
+    text-align: center;
+    cursor: pointer;
+}
+.button1 {
+    padding:5px 25px 5px 25px;
+    border-radius: 6px;
+    border: 1px solid #666;
+}
+#tfnewsearch{
+    margin:-80px 20px 20px 300px;
+    padding:20px;
+}
+.tftextinput{
+    margin: -100px 0px 10px 10px;
+    padding: 5px 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:12px;
+    border:1px solid #0076a3; border-right:0px;
+    border-top-left-radius: 5px 5px;
+    border-bottom-left-radius: 5px 5px;
+}
+.tfbutton {
+    margin: 0px;
+    padding: 5px 15px;
+    font-family: Arial;
+    font-size:12px;
+    outline: none;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    background: gray;
+    border: solid 1px #0076a3;
+    border-right:0px;
+    border-top-right-radius: 5px 5px;
+    border-bottom-right-radius: 5px 5px;
+}
+.line-right-d{
+    margin:0px 0px 0px 255px;
+}
+.line-right-e{
+    margin:-95px 0px 0px 780px;
+}
+#tfnewsearch1{
+    margin:-100px 20px 20px 750px;
+    padding:20px;
+}
+.tftextinput1{
+    margin: -100px 0px 10px 10px;
+    padding: 5px 2px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:8px;
+    border:1px solid; 
+}
+.tfbutton1 {
+    margin: 0;
+    font-family: Arial;
+    font-size:8px;
+    outline: none;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    background: lightgray;
+}
